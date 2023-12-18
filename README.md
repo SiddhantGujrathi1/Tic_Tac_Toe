@@ -14,8 +14,6 @@ Welcome to the SidTech Tic-Tac-Toe Game App repository! This simple yet engaging
 
 - **Responsive Design:** The app is built with responsiveness in mind, ensuring an optimal gaming experience across various devices and screen sizes.
 
-- **Customizable Themes:** Personalize your gaming experience with different themes and visual styles, adding a touch of flair to your Tic-Tac-Toe battles.
-
 - **Multiplayer Mode:** Challenge your friends or family members with the multiplayer mode, where you can compete head-to-head for Tic-Tac-Toe supremacy.
 
 
