@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="nxtmove">Next Move</string>
+    <string name="rst">RESET</string>
+    <string name="pwrdby">Powered By</string>
+
+</resources>
